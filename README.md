@@ -1,7 +1,7 @@
-Hey there.
-This is just a place for me to dump my little projects and homeworks
-Sometimes the project looks dumb and sometimes they look ridiculous
-Anyways... hi.
+- Hey there.
+- This is just a place for me to dump my little projects and homeworks
+- Sometimes the project looks dumb and sometimes they look ridiculous
+- Anyways... hi.
 
 <!--
 **nottyl/nottyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
